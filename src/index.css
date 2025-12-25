@@ -95,6 +95,7 @@
 	*/
 	
 	/* Default (this is the original color scheme) */
+	/*
 	--theme-text: white;
 	--theme-text-highlighted: #ccc;
 	--theme-secondary: #2b2b2b;
@@ -105,6 +106,33 @@
 	--theme-shadow: #1b1b1b;
 	--theme-scrollbar-thumb: #1b1b1b;
 	--theme-scrollbar-track: #333;
+	*/
+	
+	/* Dark Default (darker variant of original) */
+	/*
+	--theme-text: #eceeef;
+	--theme-text-highlighted: #c6c9cc;
+	--theme-primary: #262626;
+	--theme-secondary: #1f1f1f;
+	--theme-input-placeholder: #7f8285;
+	--theme-border: #121212;
+	--theme-border-highlighted: #f5f;
+	--theme-shadow: rgba(0, 0, 0, 0.7);
+	--theme-scrollbar-thumb: #191919;
+	--theme-scrollbar-track: #222222;
+	*/
+	
+	/* Catppuccin Mocha */
+	--theme-text: #cdd6f4;
+	--theme-text-highlighted: #bac2de;
+	--theme-primary: #1e1e2e;
+	--theme-secondary: #181825;
+	--theme-input-placeholder: #9399b2;
+	--theme-border: #11111b;
+	--theme-border-highlighted: #f5c2e7;
+	--theme-shadow: rgba(0, 0, 0, 0.6);
+	--theme-scrollbar-thumb: #313244;
+	--theme-scrollbar-track: #1e1e2e;
 }
 
 /*

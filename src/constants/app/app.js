@@ -2,7 +2,7 @@ export const APP = {
 	apiUrl: "http://localhost:8080",
 	appName: "25Karma",
 	appNickname : "+25 Karma!",
-	documentTitle: "25Karma",
+	documentTitle: "+25 Karma!",
 	hypixelStatusUrl: "https://status.hypixel.net",
 	namemcUrl: "https://namemc.com/search?q=",
 	organizationUrl: "https://github.com/25karma",
